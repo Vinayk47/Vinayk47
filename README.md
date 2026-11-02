@@ -18,7 +18,6 @@ I'm a Security Engineer focused on risk, audit, and compliance. I work on streng
 
 - 🎓 MS in Cybersecurity, Drexel University
 - 📍 Scottsdale, Arizona
-- 💼 Open to full-time IT compliance, risk management, and security engineering roles
 
 <!-- Add only the frameworks you have actually worked with, for example:
 - 🛡️ Frameworks: NIST CSF, ISO 27001, SOC 2
@@ -45,4 +44,4 @@ Recruiters for GRC roles search for these terms. -->
 
 ## Let's connect
 
-If you're hiring for security, risk, or compliance work, [message me on LinkedIn](https://www.linkedin.com/in/vinaykaramchandani/) or [send me an email](mailto:vinaykaramchandani74@gmail.com).
+Want to talk about security, risk, or compliance? [Message me on LinkedIn](https://www.linkedin.com/in/vinaykaramchandani/) or [send me an email](mailto:vinaykaramchandani74@gmail.com).
