@@ -18,10 +18,13 @@ I'm a Security Engineer focused on risk, audit, and compliance. I work on streng
 
 - 🎓 MS in Cybersecurity, Drexel University
 - 📍 Scottsdale, Arizona
+- 🛡️ Focus areas: ISO 27001 and SOC 2 Type 2
 
-<!-- Add only the frameworks you have actually worked with, for example:
-- 🛡️ Frameworks: NIST CSF, ISO 27001, SOC 2
-Recruiters for GRC roles search for these terms. -->
+## Projects
+
+### [ISO 27001 and SOC 2 Type 2 Readiness Toolkit](https://github.com/Vinayk47/iso27001-soc2-type2-toolkit)
+
+A portfolio project with 18 controls mapped to ISO 27001:2022 and SOC 2, plus a Python tool that finds missing evidence and control exceptions across an audit period. It uses fictional sample data.
 
 ## Tech stack
 
