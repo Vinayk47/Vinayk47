@@ -17,7 +17,7 @@
 I'm a Security Engineer focused on risk, audit, and compliance. I work on strengthening security frameworks and keeping organizations aligned with regulatory requirements, with a foundation in cloud environments and risk management.
 
 - 🎓 MS in Cybersecurity, Drexel University
-- 📍 Seattle, Washington
+- 📍 Scottsdale, Arizona
 - 💼 Open to full-time IT compliance, risk management, and security engineering roles
 
 <!-- Add only the frameworks you have actually worked with, for example:
